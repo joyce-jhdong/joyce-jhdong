@@ -138,6 +138,7 @@ include_once(PATH_HEADER);
                     <ul>
 						<li class="dropdownItems"><a href="/docs/index.php?file=HSEMS08_Contractors_safety_guidelines_working_conditions&type=pdf&department=hse&group=Element8"/>HSEMS08 Contractors safety guidelines and working conditions</a></li>
 						<li class="dropdownItems"><a href="/docs/index.php?file=HSEMS08_Evaluation_selection_control_contractors&type=pdf&department=hse&group=Element8"/>HSEMS08 - Evaluation, selection and control of contractors</a></li>
+						<li class="dropdownItems"><a href="/docs/index.php?file=HSEMS08_Permit_To_Work&type=pdf&department=hse&group=Element8"/>HSEMS08 Permit To Work 2022</a></li>
 					</ul>
                 </div>
             </div>
@@ -217,7 +218,7 @@ include_once(PATH_HEADER);
             <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
                 <div class="card-body">
                     <ul>
-						<li class="dropdownItems"><a href="/docs/index.php?file=ERP_2019&type=pdf&department=hse&group=Element14"/>BII ERP 2019</a></li>
+						<li class="dropdownItems"><a href="/docs/index.php?file=ERP_2022&type=pdf&department=hse&group=Element14"/>BII ERP 2022</a></li>
 					</ul>
                 </div>
             </div>
@@ -236,6 +237,6 @@ include_once(PATH_HEADER);
     </div>
 </div>
 <br />
-<p> For any enquiries regarding HSE matters, please contact <a href="mailto:suhaimi_mustafa@hq.a-star.edu.sg">Suhaimi</a> (Senior Officer of HSE).</p>
+<p> For any enquiries regarding HSE matters, please contact <a href="mailto:Goh_Siok_Kun@hq.a-star.edu.sg">Siok Kun</a> (Assistant Head of HSE).</p>
 
 <?php include_once(PATH_FOOTER);?>
